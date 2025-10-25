@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm YANGZHOU66666 👋
 
-<!--
-**YANGZHOU66666/YANGZHOU66666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
 
-Here are some ideas to get you started:
+<table width="100%" style="border: 0;"> <tr style="border: 0;"> <!-- 左侧：Logo 和文字 --> <td style="border: 0; vertical-align: middle;"> <img src="./assets/NJU_logo.jpg" width="45" alt="南京大学Logo" style="vertical-align: middle; margin-right: 15px;" /> <div style="display: inline-block; vertical-align: middle;"> <div style="font-size: 1.15em; font-weight: 600;">Nanjing University</div> <div>Software Institute | Software Engineering, Undergraduate</div> </div> </td> <!-- 右侧：日期 --> <td style="border: 0; text-align: right; vertical-align: middle;"> 2022.9-2026.6 </td> </tr> </table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🌱 Currently Learning
+
+Basic Structure&Theory of LLM | LLM Applications
+
+
+
+## 🎈 Beyond Coding
+
+🏕️ Hiking | 📷 Photography | ✈️ Traveling
+
