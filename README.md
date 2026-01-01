@@ -1,6 +1,6 @@
 # Hi there, I'm YANGZHOU66666 👋
 
-## 🎓 Education
+## 🎓 Education Background
 
 <table><tr><td width=75 frame=void><img src='./assets/NJU_logo.jpg' width=100></td><td><div><b>Nanjing University</b></div><div>Software Institute | Undergraduate, Software Engineering</div></td><td>2022.9-2026.6</td></tr></table>
 
