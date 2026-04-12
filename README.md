@@ -15,9 +15,10 @@
       <div><b>Meituan, Beijing</b></div>
       <div>Algorithm Intern, Risk Control</div>
     </td>
-    <td>2025.9-Present</td>
+    <td>2025.9-2026.4</td>
   </tr>
 </table>
+
 
 
 ## 🌱 Currently Learning
