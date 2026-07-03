@@ -17,9 +17,6 @@
     </td>
     <td>2026.6-Present</td>
   </tr>
-</table>
-
-<table>
   <tr>
     <td width=75 frame=void>
       <img src='./assets/Meituan_Logo.png' width=100 alt="Meituan">
